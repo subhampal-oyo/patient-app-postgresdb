@@ -1,0 +1,5 @@
+CREATE TABLE Patient(
+ id int NOT NULL PRIMARY KEY,
+ name VARCHAR(30) NOT NULL,
+ status VARCHAR(20) NOT NULL
+);
